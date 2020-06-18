@@ -1,0 +1,13 @@
+name: ESDA
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - notebook=6.0
+  - pandas=1.0
+  - matplotlib=3.2
+  - seaborn=0.10
+  - geopandas=0.7
+  - pysal=2.2
+  - descartes=1.1
